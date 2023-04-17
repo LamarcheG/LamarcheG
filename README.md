@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught developer with a passion for technology. Team player looking for challenges
+Self-taught developer with a passion for technology
 
 
 # 💻 Tech Stack:
